@@ -47,7 +47,7 @@ public class ShuttleVehicle extends SpaceShip {
     }
 
     /**
-     * Reescritura de metodo
+     * Reescritura de método
      */
 
     @Override

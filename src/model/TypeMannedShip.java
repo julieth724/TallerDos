@@ -9,7 +9,7 @@ public class TypeMannedShip implements ICreateship {
     private MannedShip mannedShip;
 
     /**
-     *Creacion de metodos Getter and Setter
+     *Creación de métodos Getter and Setter
      */
     public int getId() {
         return id;

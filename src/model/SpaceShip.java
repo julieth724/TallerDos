@@ -120,7 +120,7 @@ public abstract class SpaceShip {
     }
 
     /**
-     * metodo abstracto
+     * método abstracto
      */
     public abstract void createship();
 }

@@ -10,7 +10,7 @@ public class TypeShuttleVehicle implements ICreateship {
 
 
     /**
-     * metodos getters and setters
+     * métodos getters and setters
      * @return
      */
     public int getId() {

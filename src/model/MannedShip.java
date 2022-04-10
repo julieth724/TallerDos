@@ -5,7 +5,7 @@ package model;
  */
 public class MannedShip extends SpaceShip{
     /**
-     * contructor con sobrecarga
+     * constructor con sobrecarga
      */
     private int passengerCapacity;
 

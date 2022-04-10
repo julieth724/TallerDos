@@ -16,7 +16,7 @@ public class UnmannedShip extends SpaceShip{
     }
 
     /**
-     * metodos getters and setters
+     * métodos getters and setters
      *
      */
     public String getStudyPlanet() {
